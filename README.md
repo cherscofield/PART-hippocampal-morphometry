@@ -119,6 +119,10 @@ For questions about the code or methods:
 - **Email**: josephs.keith@mayo.edu
 - **Institution**: Mayo Clinic, Rochester, MN
 
+- **First author**: Hossam Youssef M.B.,B.Ch
+- **Email**: youssef.hossam@mayo.edu
+- **Institution**: Mayo Clinic, Rochester, MN
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -128,4 +132,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - HIPSTA algorithm: Diers et al. (2023), Fischbach et al. (2023)
 - FreeSurfer hippocampal subfields: Iglesias et al. (2015)
 - MNE-Python: Gramfort et al. (2013)
+
 
